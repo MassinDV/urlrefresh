@@ -11,4 +11,4 @@ jobs:
       - name: Send HTTP request
         uses: wei/curl@v1
         with:
-          args: http://live.idesignix.com/hls/scrap/extractchannels/alwaysdomain.php
+          args: https://u.idesignix.com/alwaysdo
