@@ -1,4 +1,4 @@
-name: Refresh and Run Every 10 Minutes
+name: Refresh and Run
 
 on:
   schedule:
